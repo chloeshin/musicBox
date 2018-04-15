@@ -1,0 +1,1709 @@
+#divApplab.appModern button,
+#divApplab.appModern button:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label,
+#divApplab.appModern label:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  word-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text],
+#divApplab.appModern input[type=text]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox],
+#divApplab.appModern input[type=checkbox]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select,
+#divApplab.appModern select:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio],
+#divApplab.appModern input[type=radio]:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea,
+#divApplab.appModern div.textArea:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img,
+#divApplab.appModern img:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas,
+#divApplab.appModern canvas:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen,
+#divApplab.appModern div.screen:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart,
+#divApplab.appModern div.chart:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range],
+#divApplab.appModern input[type=range]:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #title1 {
+  font-size: 25px;
+  color: rgb(174, 205, 196);
+  width: 29px;
+  height: 30px;
+  left: 85px;
+  top: 190px;
+}
+
+#divApplab.appModern #title2 {
+  font-size: 25px;
+  color: rgb(239, 204, 202);
+  width: 20px;
+  height: 30px;
+  left: 125px;
+  top: 175px;
+}
+
+#divApplab.appModern #title3 {
+  font-size: 25px;
+  color: rgb(144, 45, 62);
+  width: 17px;
+  height: 30px;
+  left: 155px;
+  top: 190px;
+}
+
+#divApplab.appModern #title4 {
+  font-size: 25px;
+  color: rgb(183, 120, 85);
+  width: 20px;
+  height: 30px;
+  left: 185px;
+  top: 200px;
+}
+
+#divApplab.appModern #title5 {
+  font-size: 25px;
+  color: rgb(201, 119, 127);
+  width: 19px;
+  height: 30px;
+  left: 210px;
+  top: 177px;
+}
+
+#divApplab.appModern #title6 {
+  font-size: 25px;
+  color: rgb(222, 213, 194);
+  width: 67px;
+  height: 30px;
+  left: 126px;
+  top: 255px;
+}
+
+#divApplab.appModern #startBtn {
+  background-color: rgb(174, 205, 196);
+  left: 125px;
+  top: 335px;
+}
+
+#divApplab.appModern #playScreen {
+  display: none;
+}
+
+#divApplab.appModern #bar {
+  width: 300px;
+  height: 40px;
+  color: rgb(72, 72, 72);
+  background-color: rgb(60, 60, 60);
+  left: 10px;
+  top: 28px;
+}
+
+#divApplab.appModern #cBtn1 {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  top: 80px;
+}
+
+#divApplab.appModern #cBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  top: 180px;
+}
+
+#divApplab.appModern #cBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #cBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #cBtn7 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #cBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #cBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 15px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn1.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn1 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn1 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn1 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn1 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn1 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn7 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #dBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 65px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn2.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn7 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #eBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 115px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn3.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn7 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #gBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 165px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn4.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn7 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #aBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 215px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn5.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn2 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn3 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn4 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn5 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn6 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn7 {
+  height: 45px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 325px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #hcBtn8 {
+  height: 35px;
+  width: 35px;
+  background-color: rgba(26, 188, 156, 0);
+  left: 265px;
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn6.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #lcLabel {
+  color: rgb(144, 45, 62);
+  width: 35px;
+  height: 35px;
+  left: 15px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #dLabel {
+  color: rgb(201, 119, 127);
+  width: 35px;
+  height: 35px;
+  left: 65px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #eLabel {
+  color: rgb(239, 204, 202);
+  width: 35px;
+  height: 35px;
+  left: 115px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #gLabel {
+  color: rgb(222, 213, 194);
+  width: 35px;
+  height: 35px;
+  left: 165px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #aLabel {
+  color: rgb(183, 120, 85);
+  width: 35px;
+  height: 35px;
+  left: 215px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #hcLabel {
+  color: rgb(174, 205, 196);
+  width: 35px;
+  height: 35px;
+  left: 265px;
+  top: 5px;
+  text-align: center;
+}
+
+#divApplab.appModern #cBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn6o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #cBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 15px;
+}
+
+#divApplab.appModern #dBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn6o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #dBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 65px;
+}
+
+#divApplab.appModern #eBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn6o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #eBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 115px;
+}
+
+#divApplab.appModern #gBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn6o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #gBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 165px;
+}
+
+#divApplab.appModern #aBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn6o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #aBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 215px;
+}
+
+#divApplab.appModern #hcBtn1o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 30px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn2o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 80px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn3o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 130px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn4o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 180px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn5o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn6o {
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 280px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+  height: 35px;
+}
+
+#divApplab.appModern #hcBtn7o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 330px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #hcBtn8o {
+  height: 35px;
+  width: 35px;
+  color: rgb(144, 45, 62);
+  background-color: rgba(26, 188, 156, 0);
+  top: 380px;
+  background-image: url("https://studio.code.org/v3/assets/JmosjUGtG22GxoqBeSk9GRaf62oG_L3c7666NJjN4PM/btn7.png");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  left: 265px;
+}
+
+#divApplab.appModern #playBtn {
+  height: 20px;
+  background-color: rgb(174, 205, 196);
+  left: 120px;
+  top: 425px;
+}
