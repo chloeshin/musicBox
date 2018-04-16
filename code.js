@@ -1,6 +1,4 @@
 var buttonValues = [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]];
-var play = false;
-var test = 0;
 checkAllBtns();
 
 setScreen("welcomeScreen");
